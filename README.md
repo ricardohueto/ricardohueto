@@ -10,7 +10,8 @@
 
 🛠️ Skills
 Languages
-![Python][https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub](https://simpleicons.org/?modal=icon&q=python&logoColor=blue)]
+![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white&color=%23306998)
+
 
 AI & Machine Learning
 
