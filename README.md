@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23659AD2)
 
 ### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-thebadge&logo=tensorflow&logoColor=white&color=%23FF6F00)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&color=%23FF6F00)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=%23EE4C2C)
 ![ScikitLearn](https://img.shields.io/badge/-Scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23F7931E)
 
