@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## About Me
+## 🚀 About Me
 🎓 I’m Ricardo Hueto, a Spanish student currently studying at the **Polytechnic University of Barcelona**. I don’t want to be the kind of student who relies only on university to learn. Instead, I enjoy **working on my own projects** and growing through **self-learning**.
 
 🔎 I like exploring what really lies behind the technologies we use every day, **understanding how things work**, and **turning ideas into real projects**.
@@ -27,8 +27,8 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)
 ![RaspberryPi](https://img.shields.io/badge/-RaspBerry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&color=%23A22846)
 
-## Interests
+## 🎯 Interests
 Artificial Intelligence • Machine Learning • Applied AI Projects • Problem Solving • Experimental Learning
 
-## Currently
+## ⏱️ Currently
 Learning, building AI-related personal projects, and continuously improving my technical and problem-solving skills.
