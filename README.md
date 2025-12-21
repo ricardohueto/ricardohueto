@@ -12,11 +12,23 @@
 ## 🛠️ Skills
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white&color=%23306998)
-![C++](https://img.shields.io/badge/-C%2B%2B-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23659AD2
-)
+![C++](https://img.shields.io/badge/-C%2B%2B-659AD2?style=for-the-badge&logo=cplusplus&logoColor=white&color=%23659AD2)
 
-AI & Machine Learning
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the badge&logo=tensorflow&logoColor=white&color=%23FF6F00)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&color=%23EE4C2C)
+![ScikitLearn](https://img.shields.io/badge/-Scikit%20learn-%23F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23F7931E)
 
 Data & Tools
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&color=%23150458)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white&color=%235C3EE8)
 
 Systems & Hardware
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=%23FCC624)
+![RaspberryPi](https://img.shields.io/badge/-RaspBerry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&color=%23A22846)
+
+## Interests
+Artificial Intelligence • Machine Learning • Applied AI Projects • Problem Solving • Experimental Learning
+
+## Currently
+Learning, building AI-related personal projects, and continuously improving my technical and problem-solving skills.
